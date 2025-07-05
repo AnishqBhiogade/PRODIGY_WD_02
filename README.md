@@ -6,24 +6,24 @@ An interactive and user-friendly stopwatch built using **HTML**, **CSS**, and **
 
 ## 🧰 Features
 
-- ✅ Start, pause, and reset the stopwatch  
-- 🕓 Track and display lap times  
-- 📱 Responsive UI for desktop and mobile  
+- ✅ Start, pause, and reset the stopwatch
+- 🕓 Track and display lap times
+- 📱 Responsive UI for desktop and mobile
 - ⚡ Lightweight and fast — no frameworks
 
 ---
 
 ## 🛠️ Built With
 
-- [HTML](w) – Markup structure for the stopwatch layout  
-- [CSS](w) – Styling for visual appearance and responsiveness  
+- [HTML](w) – Markup structure for the stopwatch layout
+- [CSS](w) – Styling for visual appearance and responsiveness
 - [JavaScript](w) – Core logic for timer, event handling, and lap functions
 
 ---
 
 ## 📷 Screenshots
 
-*(Include screenshots of the UI here if available)*
+## ![Preview](immages/Screenshot%202025-07-05%20150735.png)
 
 ---
 
@@ -33,3 +33,4 @@ An interactive and user-friendly stopwatch built using **HTML**, **CSS**, and **
    ```bash
    git clone https://github.com/your-username/stopwatch-app.git
    cd stopwatch-app
+   ```
